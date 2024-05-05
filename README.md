@@ -1,2 +1,2 @@
-# documentation
-Documentation for the Walnut Theorem Prover
+# Documentation
+Documentation for the Walnut Theorem Prover.
